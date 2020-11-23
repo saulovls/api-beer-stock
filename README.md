@@ -1,17 +1,19 @@
-#### ✨ API REST com Spring Boot :
+#### ✨ API REST para gerenciamento de estoque:
 
 - Setup inicial de projeto com o Spring Boot Initialzr;
-- Criação de modelo de dados para o mapeamento de entidades em bancos de dados;
-- Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto;
-- Desenvolvimento de testes unitários para validação das funcionalidades.
+- Foco nos testes unitários: mostrar o porque é importante o desenvolvimento destes tipos de testes como parte do ciclo de desenvolvimento de software;
+- Principais frameworks para testes unitários em Java: JUnit, Mockito e Hamcrest;
+- Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão de cervejas.
 
-#### 🚧 Considerações adicionais para esse projeto:
+#### 🚧 Você vai precisar disso para rodar localmente:
 
-1. Estou me aperfeiçoando em back-end e pretendo melhorar o funcionamento do mesmo;
+1. Java 14 ou versões superiores;
 
-2. Sério, estou me esforçando mesmo. HUAHAHUHUA
+2. Maven 3.6.3 ou versões superiores;
 
-3. Enquanto isso aqui não fica 100%, dá uma olhada nos meus outros repositórios, talvez você goste.
+3. Intellj IDEA Community Edition ou sua IDE favorita;
+
+4. Se não te interessar muito, dá uma olhada nos meus outros repositórios. :)
 
    
 
